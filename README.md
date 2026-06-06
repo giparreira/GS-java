@@ -113,18 +113,14 @@ java -cp out br.com.gs2espv.Main
 
 | Nome | RM |
 |---|---|
-| *(Nome Integrante 1)* | RM000000 |
-| *(Nome Integrante 2)* | RM000000 |
-| *(Nome Integrante 3)* | RM000000 |
+| *Julia Souza Pompeu* | 561955 |
+| *Giovana Rosatti Parreira* | 563375 |
+| *Luiz Filipe Dalboni Riello* | 564189 |
+| *Thayná Pereira Simões* | 566456 |
 
 ---
 
 ## 🎥 Vídeo Explicativo
 
-> 📽️ [Inserir link do vídeo (YouTube / MP4)](https://youtube.com/)
+> 📽️ 
 
----
-
-## 📄 Licença
-
-Projeto acadêmico — FIAP 2025. Uso exclusivo para fins educacionais.
