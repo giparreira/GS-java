@@ -62,7 +62,7 @@ GS2ESPV/
 
 ### Pré-requisitos
 
-- **Java 17+** instalado ([Download](https://adoptium.net/))
+- **Java 17+** instalado
 - Terminal / Prompt de Comando
 
 ### Passo a passo
@@ -122,5 +122,5 @@ java -cp out br.com.gs2espv.Main
 
 ## 🎥 Vídeo Explicativo
 
-> 📽️ 
+> 📽️ ([Vídeo]([https://adoptium.net/](https://www.youtube.com/watch?v=GXrPHV2JVAk)))
 
