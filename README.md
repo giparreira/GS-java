@@ -122,5 +122,5 @@ java -cp out br.com.gs2espv.Main
 
 ## 🎥 Vídeo Explicativo
 
-> 📽️ ([Vídeo](https://www.youtube.com/watch?v=GXrPHV2JVAk))
+> 📽️ ([Vídeo][https://www.youtube.com/watch?v=GXrPHV2JVAk])
 
